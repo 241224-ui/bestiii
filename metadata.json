@@ -1,0 +1,7 @@
+{
+  "name": "Bestie Interrogation",
+  "description": "A cute, playful, and interactive questionnaire mini-game for your best friend with a magnetically evasive NO button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
